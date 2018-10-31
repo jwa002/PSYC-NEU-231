@@ -1,6 +1,10 @@
 Jason 10.17.18
 new changes
 =======
+=======
+## Update 10.31.2018 - Today's class will cover an intro to machine learning
+
+>>>>>>> upstream/master
 ## Update 10.24.2018 - tomorrow's class will cover non-parametric stats (randomization testing and bootstrapping)
 >>>>>>> 437e5f7e8bc5fcba63c10c4e58b0060ab7660495
 
